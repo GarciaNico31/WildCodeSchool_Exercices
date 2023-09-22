@@ -1,0 +1,2 @@
+# WildCodeSchool_Exercices
+Exercices
